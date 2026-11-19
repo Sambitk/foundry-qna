@@ -1,0 +1,4 @@
+location = "<azure-region>"
+
+# Set this if the default subdomain, foundry-res-vds, is already taken.
+# custom_subdomain_name = "<globally-unique-subdomain>"
